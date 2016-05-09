@@ -1,6 +1,6 @@
 #Dataset
 
-El Dataset es resultado de la recopilación de una serie de factores sociales, económicos, de salud e indicadores políticos, con proporcionados por la **Organización Mundial de la Salud - OMS** y las Organizaciones asociadas.
+El Dataset es resultado de la recopilación de una serie de factores sociales, económicos, de salud e indicadores políticos, con datos proporcionados por la **Organización Mundial de la Salud - OMS** y las Organizaciones asociadas.
 
 A continuación se detallan algunos atributos que fueron utilizados en los procesos:
 
