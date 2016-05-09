@@ -4,13 +4,13 @@
 
 La relación entre los atributos: **Ingreso nacional bruto per cápita** (Gross national income per capita), **Tasa de mortalidad infantil** (Infant-mortality-rate), **La desnutrición de peso para la edad** (Malnutrition-weight-for-age), **País** (Country).
 
-##2. Gráfico
+##2. Gráficos
 
+(a)
 ![Graf. 3](reporte_3a.png)
-(1)
 
+(b)
 ![Graf. 4](reporte_3b.png)
-(2)
 
 ##3. Conclusión
 
