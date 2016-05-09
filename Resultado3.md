@@ -16,3 +16,5 @@ La relación entre los atributos: **Ingreso nacional bruto per cápita** (Gross 
 
 A menor ingreso nacional bruto per cápita, mayor la tasa de mortalidad infantil y desnutrición. También, se puede observar que la desnutrición incrementa la tasa de mortalidad infantil en los diferentes países del mundo.
 
+> En el gráfico (b), el diámetro de la burbuja esta determinada por el indice de desnutrición.
+
